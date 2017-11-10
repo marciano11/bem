@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.titel__hoofd {
+  text-align: center;
+  font-family: monospace;
+}
+
+.top {
+  width: 80%;
+  background-color: blue;
+  margin-left: auto;
+  margin-right: auto;
+  height: 450px;
+}
+
+.top__title {
+  text-align: center;
+  font-family: monospace;
+  color: yellow;
+}
+
+.top__paragraph {
+  text-align: center;
+  font-family: monospace;
+  color: yellow;
+  margin-left: 1em;
+  margin-right: 1em;
+}
